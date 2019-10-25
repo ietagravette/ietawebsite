@@ -1,0 +1,12 @@
+User-Agent: *
+Disallow: 
+Disallow: /assets
+Disallow: /css
+Disallow: /documets
+Disallow: /fonts
+Disallow: /images
+Disallow: /img
+Disallow: /less
+Disallow: /_notes
+
+Sitemap: http://www.idahoedtech.org/sitemap.xml

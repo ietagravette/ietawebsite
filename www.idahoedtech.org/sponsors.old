@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>IETA</title>
+		<!-- Description, Keywords and Author -->
+		<meta name="description" content="IETA">
+		<meta name="keywords" content="IETA">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<!-- Styles -->
+		<!-- Bootstrap CSS -->
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<!-- Font awesome CSS -->
+		<link href="css/font-awesome.min.css" rel="stylesheet">
+		<!-- Magnific Popup -->
+		<link href="css/magnific-popup.css" rel="stylesheet">
+		<!-- Owl carousel -->
+		<link href="css/owl.carousel.css" rel="stylesheet">
+
+		<!-- CSS for this page -->
+
+		<!-- Base style -->
+		<link href="css/styles/style.css" rel="stylesheet">
+		<!-- Skin CSS -->
+		<link href="css/styles/skin-lblue.css" rel="stylesheet" id="color_theme">
+
+		<!-- Custom CSS. Type your CSS code in custom.css file -->
+		<link href="css/custom.css" rel="stylesheet">
+
+		<!-- Favicon -->
+		<link rel="shortcut icon" href="#">
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-130767173-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-130767173-1');
+</script>
+
+	</head>
+
+
+	<body>
+
+		<!-- Outer Starts -->
+	<div class="outer">
+
+
+			<!-- Header two Starts -->
+			<div class="header-2">
+
+				<!-- Container -->
+				<div class="container">
+					<div class="row">
+						<div class="col-md-2">
+							<!-- Logo section -->
+							<div class="logo">
+									<h1><a href="#"><img alt="Idaho Education Technology Association" src="images/IETALogoLarge.png" width="180"></a></h1>
+							</div>
+						</div>
+						<div class="col-md-9">
+
+							<!-- Navigation starts.  -->
+							<div class="navy">
+								<ul>
+									<li><a href="index.html">Home</a></li>
+									<li><a href="about.html">About Us</a></li>
+                                    <li><a href="membership.html">Membership</a></li>
+                                    <li><a href="https://ieta.events/"  target="_blank">Conference <i class="fa fa-external-link-square"></i></a></li>
+                                    <li><a href="sponsors.html">Partners</a></li>
+                                    <li><a href="http://techtalk.idahoedtech.org/">TechTalk Forum <i class="fa fa-external-link-square"></i></a></li>
+                                    <li><a href="announcements.html">Announcements</a></li>
+                                </ul>
+							</div>
+							<!-- Navigation ends -->
+
+						</div>
+
+						<div class="col-md-1">
+
+							<!-- Search section -->
+							<div class="head-search pull-right">
+								<a href="#" class="b-dropdown"><i class="fa fa-search square-2 rounded-1 bg-color white"></i></a>
+								<div class="b-dropdown-block">
+									<form role="form">
+										<!-- Input Group -->
+										<div class="input-group">
+											<input type="text" class="form-control" placeholder="Begin Your Search">
+											<span class="input-group-btn">
+												<button class="btn btn-color" type="button">Search</button>
+											</span>
+										</div>
+									</form>
+								</div>
+							</div>
+							<!-- Search section ends -->
+							<div class="clearfix"></div>
+
+						</div>
+
+					</div>
+				</div>
+			</div>
+
+			<!-- Header two ends -->
+
+			<!-- Main content starts -->
+
+	  <div class="main-block">
+
+				<!-- Page heading two starts -->
+
+				<div class="page-heading-two">
+					<div class="container">
+						<h2>Idaho Education Technology Association</h2>
+						<!--<div class="breads">
+							Home / <a href="#">Page</a> / <a href="#">Sub Page</a>
+						</div>-->
+						<div class="clearfix"></div>
+					</div>
+				</div>
+
+				<!-- Page heading two ends -->
+
+
+			<div class="main-block">
+
+
+					<div class="page-heading-one">
+						<h2>Titanium Partners</h2>
+					</div>
+			</div>
+			<div class="sponsor bg-color">
+						<div class="container">
+							<div class="row">
+								<div class="col-md-3 col-sm-6">
+									<!-- Team member -->
+									<div class="sponsor-box">
+										<!-- Image -->
+										<img class="img-responsive" src="images/2016_Vendor_Logos/th.png" alt="Tek-Hut Logo">
+										<!-- Image details -->
+										<div class="sponsor-details">
+											<!-- Name -->
+											<h4>Tek-Hut</h4>
+											<span class="deg"><a href="http://tek-hut.com/">tek-hut.com</a></span>
+
+										</div>
+									</div>
+								</div>
+								<div class="col-md-8 col-sm-4 sponsor-p">
+									<p>"Founded in 2001, based in the great state of Idaho. Tek-Hut provides services across the United States primarily to K-12 School Districts.  It provides most of these services out of a small beautiful town called Twin Falls.
+It was founded by Dallas Gray and Nate Bondelid. Today, it employs more than 20 great individuals creating a sucessful Idaho based team."</p>
+
+									<div class="spon-logo">
+									<ul>
+<!--
+									    <li><img class="img-responsive" src="images/logo-sample.png"></li>
+									    <li><img class="img-responsive" src="images/logo-sample.png"></li>
+									    <li><img class="img-responsive" src="images/logo-sample.png"></li>
+									    <li><img class="img-responsive" src="images/logo-sample.png"></li>
+-->
+									</ul>
+									</div>
+								</div>
+
+
+							</div>
+						</div>
+			</div>
+
+
+                			<div class="main-block">
+
+
+					<div class="page-heading-one">
+						<h2>Diamond Partners					</h2>
+					</div>
+			</div>
+
+            <div class="sponsor bg-color">
+						<div class="container">
+							<div class="row">
+								<div class="col-md-3 col-sm-6">
+									<!-- Team member -->
+									<div class="sponsor-box">
+										<!-- Image -->
+										<img class="img-responsive" src="images/2017_Vendor_Logos/02-compunet.png" alt="Compunet Logo">
+										<!-- Image details -->
+										<div class="sponsor-details">
+											<!-- Name -->
+										  <h4>Computnet</h4>
+											<span class="deg"><a href="http://compunet.biz/">compunet.biz</a></span>
+
+									  </div>
+								  </div>
+								</div>
+								<div class="col-md-8 col-sm-4 sponsor-p">
+									<p>CompuNet, Inc. is a leading value-added reseller (VAR) and managed service provider for information technology (IT) solutions, with 8 offices in the Northwest and headquartered in Meridian, Idaho.  Our approach is to understand our clients&rsquo; business needs, engineer IT solutions that precisely fit those needs, and deploy those solutions on time and on budget. In other words, we strive to create technology solutions that are a perfect fit with what you want to accomplish today and tomorrow.  We call this engineering customer success.</p>
+
+									<div class="spon-logo">
+									<ul>
+<!--
+									    <li><img class="img-responsive" src="images/logo-sample.png"></li>
+									    <li><img class="img-responsive" src="images/logo-sample.png"></li>
+									    <li><img class="img-responsive" src="images/logo-sample.png"></li>
+									    <li><img class="img-responsive" src="images/logo-sample.png"></li>
+-->
+									</ul>
+								  </div>
+							  </div>
+
+
+							</div>
+						</div>
+			</div>
+
+			<div class="sponsor bg-color">
+						<div class="container">
+							<div class="row">
+								<div class="col-md-3 col-sm-6">
+									<!-- Team member -->
+									<div class="sponsor-box">
+										<!-- Image -->
+										<img class="img-responsive" src="images/2017_Vendor_Logos/01-ena.png" alt="ENA Logo">
+										<!-- Image details -->
+										<div class="sponsor-details">
+											<!-- Name -->
+											<h4>Education Networks of America</h4>
+											<span class="deg"><a href="http://ena.com/">ena.com</a></span>
+
+										</div>
+									</div>
+								</div>
+								<div class="col-md-8 col-sm-4 sponsor-p">
+									<p>Our solutions are education- and library-specific, designed from the ground up to meet the needs of our customers, because schools and libraries are the only communities we serve. ENA’s proven IaaS approach to connectivity, communications, and collaboration solutions capitalize on the combined strengths of our expertise, resources, and partners to offer speed, reliability, scalability, best-of-breed technologies, and continuous technology improvements to our customers. </p>
+
+									<div class="spon-logo">
+									<ul>
+<!--
+									    <li><img class="img-responsive" src="images/logo-sample.png"></li>
+									    <li><img class="img-responsive" src="images/logo-sample.png"></li>
+									    <li><img class="img-responsive" src="images/logo-sample.png"></li>
+									    <li><img class="img-responsive" src="images/logo-sample.png"></li>
+-->
+									</ul>
+									</div>
+								</div>
+
+
+							</div>
+						</div>
+			</div>
+
+            <div class="sponsor bg-color">
+						<div class="container">
+							<div class="row">
+								<div class="col-md-3 col-sm-6">
+									<!-- Team member -->
+									<div class="sponsor-box">
+										<!-- Image -->
+										<img class="img-responsive" src="images/2017_Vendor_Logos/02-ednetics.png" alt="Ednetics Logo">
+										<!-- Image details -->
+										<div class="sponsor-details">
+											<!-- Name -->
+										  <h4>Enetics</h4>
+											<span class="deg"><a href="https://www.ednetics.com/">ednetics.com</a></span>
+
+									  </div>
+								  </div>
+								</div>
+								<div class="col-md-8 col-sm-4 sponsor-p">
+									<p>								    Since its founding in 1997, Ednetics has been dedicated to bringing the best technology solutions to the educational and public sector communities. Technology&rsquo;s evolution has created exciting opportunities. Video surveillance and IP-based access control have enhanced school safety; more powerful networks now bring wireless connectivity to every classroom. Separate, stand-alone systems are now being unified on the converged IP network. We have been working to adapt these important developments to the unique demands of K12, higher education, and public sector environments.
+                                  </p><div class="spon-logo">
+									                                                              <ul>
+<!--
+									    <li><img class="img-responsive" src="images/logo-sample.png"></li>
+									    <li><img class="img-responsive" src="images/logo-sample.png"></li>
+									    <li><img class="img-responsive" src="images/logo-sample.png"></li>
+									    <li><img class="img-responsive" src="images/logo-sample.png"></li>
+-->
+									  </ul>
+								  </div>
+							  </div>
+
+
+							</div>
+						</div>
+			</div>
+
+            		<div class="main-block">
+
+
+					<div class="page-heading-one">
+						<h2>Platinum Partners</h2>
+					</div>
+			</div>
+
+            <div class="sponsor bg-color">
+						<div class="container">
+							<div class="row">
+								<div class="col-md-3 col-sm-6">
+									<!-- Team member -->
+									<div class="sponsor-box">
+										<!-- Image -->
+										<img class="img-responsive" src="images/2018Logo/Neurilink.png" alt="Neurilink">
+										<!-- Image details -->
+										<div class="sponsor-details">
+											<!-- Name -->
+										  <h4>Neurilink</h4>
+											<span class="deg"><a href="https://www.neurilink.com/">neurilink.com</a></span>
+
+									  </div>
+								  </div>
+								</div>
+								<div class="col-md-8 col-sm-4 sponsor-p">
+									<p>Our team designs, builds and supports audio visual collaboration solutions. We hire smart people and provide best-in-class solutions to customers throughout the Northwest. Our team designs collaboration solutions for conference rooms, classrooms, auditoriums, hospitals, and many other unique spaces. We take it upon ourselves to vet the newest products hitting the market and find reliable solutions that resolve our customers’ problems.</p>
+									<div class="spon-logo">
+									<ul>
+<!--
+									    <li><img class="img-responsive" src="images/logo-sample.png"></li>
+									    <li><img class="img-responsive" src="images/logo-sample.png"></li>
+									    <li><img class="img-responsive" src="images/logo-sample.png"></li>
+									    <li><img class="img-responsive" src="images/logo-sample.png"></li>
+-->
+									</ul>
+								  </div>
+							  </div>
+
+
+							</div>
+						</div>
+			</div>
+
+			<div class="sponsor bg-color">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-3 col-sm-6">
+						<!-- Team member -->
+						<div class="sponsor-box">
+							<!-- Image -->
+							<img class="img-responsive" src="images/2018Logo/hp.png" alt="Neurilink">
+							<!-- Image details -->
+							<div class="sponsor-details">
+								<!-- Name -->
+								<h4>HP</h4>
+								<span class="deg"><a href="https://government.hp.com">hp.com</a></span>
+
+							</div>
+						</div>
+					</div>
+					<div class="col-md-8 col-sm-4 sponsor-p">
+						<p>Our vision is to create technology that makes life better for everyone, everywhere — every person, every organization, and every community around the globe. This motivates us — inspires us — to do what we do. To make what we make. To invent, and to reinvent. To engineer experiences that amaze. We won’t stop pushing ahead, because you won’t stop pushing ahead. You’re reinventing how you work. How you play. How you live. With our technology, you’ll reinvent your world. This is our calling. This is a new HP. </p>
+
+						<div class="spon-logo">
+						<ul>
+			<!--
+								<li><img class="img-responsive" src="images/logo-sample.png"></li>
+								<li><img class="img-responsive" src="images/logo-sample.png"></li>
+								<li><img class="img-responsive" src="images/logo-sample.png"></li>
+								<li><img class="img-responsive" src="images/logo-sample.png"></li>
+			-->
+						</ul>
+						</div>
+					</div>
+
+
+				</div>
+			</div>
+			</div>
+
+            <div class="sponsor bg-color">
+						<div class="container">
+							<div class="row">
+								<div class="col-md-3 col-sm-6">
+									<!-- Team member -->
+									<div class="sponsor-box">
+										<!-- Image -->
+										<img class="img-responsive" src="images/2017_Vendor_Logos/03-filewave.png" alt="Filewave Logo">
+										<!-- Image details -->
+										<div class="sponsor-details">
+											<!-- Name -->
+										  <h4>Filewave</h4>
+											<span class="deg"><a href="https://www.filewave.com/">filewave.com</a></span>
+
+									  </div>
+								  </div>
+								</div>
+								<div class="col-md-8 col-sm-4 sponsor-p">
+									<p>Since 1992, FileWave has provided business, education, and government customers with industry-leading systems and mobile device management software to effectively, and efficiently, secure and manage devices, applications, and content from one easy-to-use console. With offices throughout the United States and Europe, FileWave provides the support you need, when you need it.</p>
+									<div class="spon-logo">
+									                                                              <ul>
+<!--
+									    <li><img class="img-responsive" src="images/logo-sample.png"></li>
+									    <li><img class="img-responsive" src="images/logo-sample.png"></li>
+									    <li><img class="img-responsive" src="images/logo-sample.png"></li>
+									    <li><img class="img-responsive" src="images/logo-sample.png"></li>
+-->
+									  </ul>
+								  </div>
+							  </div>
+
+
+							</div>
+						</div>
+			</div>
+
+        <div class="page-heading-one">
+						<h2>Gold Partners</h2>
+		</div>
+		<div >
+    	<table width="100%" border="0" align="center" cellpadding="25">
+  <tbody>
+    <tr class="gold">
+      <td align="center" valign="middle"><a href="https://oetc.org" target="_blank"><img src="images/2017_Vendor_Logos/04-oetc.png" alt="OETC Logo" width="200" height="62" class="img-responsive"/></a></td>
+			<td align="center" valign="middle"><a href="http://www.wsipc.org/" target="_blank"><img src="images/2018logo/WSIPC/WSIPCPrimary.jpg" alt="WSIPC Logo" width="200" height="62" class="img-responsive"/></a></td>
+			<td align="center" valign="middle"><a href="https://www.idahodigitallearning.org/" target="_blank"><img src="images/2017_Vendor_Logos/05-idla.png" alt="IDLA Logo" width="100" height="73" class="img-responsive"/></a></td>
+			<td align="center" valign="middle"><a href="https://www.lightspeed-tek.com/" target="_blank"><img src="images/2017_Vendor_Logos/04-lightspeed.png" alt="Lightspeed Logo" width="200" height="33" class="img-responsive"/></a></td>
+    </tr>
+    <tr class="gold">
+			<td align="center" valign="middle"><a href="http://vlcmtech.com" target="_blank"><img src="images/2017_Vendor_Logos/04-vlcm.png" alt="VLCM Logo" width="200" height="73" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="http://silverbacklearning.com/" target="_blank"><img src="images/2018logo/Silverback/SBLS.png" alt="Silverback Learning Logo" width="200" height="62" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="https://doceo.nnu.edu/" target="_blank"><img src="images/2018logo/04-oetc.png" alt="OETC Logo" width="200" height="62" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="https://www.extremenetworks.com/" target="_blank"><img src="images/2018logo/Extreme-Networks-RGB.png" alt="Extreme Networks Logo" width="200" height="137" class="img-responsive"/></a></td>
+		</tr>
+		<tr class="gold">
+		  <td align="center" valign="middle"><a href="https://www.cisco.com" target="_blank"><img src="images/2018logo/Cisco/Cisco.jpg" alt="Cisco Logo" width="200" height="137" class="img-responsive"/></a></td>
+			<td align="center" valign="middle"><a href="https://www.iboss.com" target="_blank"><img src="images/2018logo/iboss.png" alt="iboss Logo" width="200" height="43" class="img-responsive"/></a></td>
+	    <td align="center" valign="middle"><a href="https://www.microsoft.com/en-us/education/default.aspx" target="_blank"><img src="images/2017_Vendor_Logos/04-ms.png" alt="Microsoft Logo" width="200" height="43" class="img-responsive"/></a></td>
+			<td align="center" valign="middle"><a href="https://www.presidio.com" target="_blank"><img src="images/2018logo/Presidio/Presidio.png" alt="Presido Logo" width="200" height="43" class="img-responsive"/></a></td>
+    </tr>
+		<tr class="gold">
+		  <td align="center" valign="middle"><a href="https://stem.idaho.gov/" target="_blank"><img src="images/2018logo/StemIdaho/STEM_Logo_horizontal.jpg" alt="Idaho Stem Logo" width="200" height="137" class="img-responsive"/></a></td>
+			<td align="center" valign="middle"><a href="https://www.focalpointk12.com" target="_blank"><img src="images/2018logo/FocalPointK12.jpeg" alt="FocalPointK12 Logo" width="200" height="43" class="img-responsive"/></a></td>
+	    <td align="center" valign="middle"><a href="https://www.contentkeeper.com/" target="_blank"><img src="images/2018logo/ContentKeeper/ck_logo_2016_final.png" alt="ContentKeeper Logo" width="200" height="43" class="img-responsive"/></a></td>
+			<td align="center" valign="middle"><a href="https://www.follett.com/" target="_blank"><img src="images/2018logo/follett.png" alt="Follett Logo" width="200" height="43" class="img-responsive"/></a></td>
+    </tr>
+		<tr class="gold">
+		  <td align="center" valign="middle"><a href="https://whitecloudcom.com/" target="_blank"><img src="images/2018logo/WhiteCloud/WhiteCloud.png" alt="White Cloud Communciations Logo" width="200" height="137" class="img-responsive"/></a></td>
+			<td align="center" valign="middle"><a href="https://www.blackboard.com" target="_blank"><img src="images/2018logo/Bb.png" alt="Blackboard Logo" width="200" height="43" class="img-responsive"/></a></td>
+	    <td align="center" valign="middle"><a href="https://www.asuprepdigital.org/" target="_blank"><img src="images/2018logo/ASU_PrepDigital.png" alt="ASU Digital Prep Logo" width="200" height="43" class="img-responsive"/></a></td>
+			<td align="center" valign="middle"><a href="https://www.reduxio.com/" target="_blank"><img src="images/2018logo/Reduxio_Logo-02.png" alt="Reduxio Logo" width="200" height="43" class="img-responsive"/></a></td>
+    </tr>
+		<tr class="gold">
+		  <td align="center" valign="middle"><a href="https://www.classlink.com/" target="_blank"><img src="images/2018logo/ClassLinklogo.png" alt="Class Link Logo" width="200" height="137" class="img-responsive"/></a></td>
+			<td>&nbsp</td>
+			<td>&nbsp</td>
+			<td>&nbsp</td>
+    </tr>
+		<tr class="silver">
+			<td>&nbsp</td>
+		</tr>
+  </tbody>
+</table>
+
+     </div>
+      </div>
+
+
+   <div class="page-heading-one">
+						<h2>Silver Partners</h2>
+	  </div>
+    </div>
+    <div>
+    	<table width="100%" border="0" align="center" cellpadding="20">
+  <tbody>
+    <tr>
+      <td height="113" align="center" valign="middle"><a href="https://2ndgear.com/" target="_blank"><img src="images/2017_Vendor_Logos/05-2ndgear.png" alt="2nd Gear Logo" width="100" height="14" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="http://acecomputers.com/" target="_blank"><img src="images/2017_Vendor_Logos/05-acecomputers.png" alt="Ace Computers Logo" width="100" height="86" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="http://achieve3000.com" target="_blank"><img src="images/2018/achieve3000.jpg" alt="Achieve 3000" width="100" height="39" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="http://www.audioenhancement.com/" target="_blank"><img src="images/2017_Vendor_Logos/05audioenhancement.png" alt="Audio Enhancement Logo" width="100" height="24" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="http://avigilon.com/" target="_blank"><img src="images/2017_Vendor_Logos/05-avigilon.png" alt="Aviglon Logo" width="100" height="23" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="http://www.berkteklevitontechnologies.com/" target="_blank"><img src="images/2017_Vendor_Logos/05-Berk-Tek_Leviton_Tech.png" alt="Berk-Tek Leviton Logo" width="100" height="21" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="https://www.bytespeed.com/" target="_blank"><img src="images/2017_Vendor_Logos/05-bytespeed.png" alt="ByteSpeed Logo" width="100" height="28" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="https://www.canvaslms.com/?lead_source_description=instructure.com_" target="_blank"><img src="images/2017_Vendor_Logos/05-canvas.png" alt="Canvas Logo" width="100" height="24" class="img-responsive"/></a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle"><a href="https://cfkid.org/" target="_blank"><img src="images/2017_Vendor_Logos/05-ccfk.png" alt="CFK Logo" width="100" height="27" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="https://ccsprojects.com/" target="_blank"><img src="images/2017_Vendor_Logos/05-ccs.png" alt="CCS Logo" width="100" height="36" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="http://www.cradlepoint.com" target="_blank"><img src="images/2018logo/cradlepoint.png" alt="Cradlepoint Logo" width="100" height="30" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="http://www.cainc.com" target="_blank"><img src="images/2018logo/CAINC.png" alt="Chatsworth Logo" width="100" height="113" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="http://www.commscope.com/" target="_blank"><img src="images/2017_Vendor_Logos/05-CommScope.png" alt="Commscope Logo" width="100" height="23" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="http://www.fatbeam.com" target="_blank"><img src="images/2018logo/fatbeam.png" alt="fatbeam Logo" width="100" height="26" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="https://www.edgenuity.com/" target="_blank"><img src="images/2017_Vendor_Logos/05-edgenuity.png" alt="Edgenuity Logo" width="100" height="21" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="https://epson.com/business-solutions-education-market-products" target="_blank"><img src="images/2017_Vendor_Logos/05-epson.png" alt="Epson Logo" width="100" height="46" class="img-responsive"/></a></td>
+    </tr>
+    <tr>
+      <td height="113" align="center" valign="middle"><a href="https://www.follett.com/" target="_blank"><img src="images/2017_Vendor_Logos/05-follett.png" alt="Follett Logo" width="100" height="29" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="https://www.gcu.edu/" target="_blank"><img src="images/2017_Vendor_Logos/05-GCU.png" alt="GCU Logo" width="100" height="49" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="https://www.iboss.com/" target="_blank"><img src="images/2017_Vendor_Logos/05-iboss.png" alt="iboss Logo" width="100" height="46" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="https://www.infinitecampus.com/" target="_blank"><img src="images/2017_Vendor_Logos/05-ICampus.png" alt="Infinite Campus Logo" width="100" height="39" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="https://www.illuminateed.com/" target="_blank"><img src="images/2017_Vendor_Logos/05-IE.png" alt="Illuminate Logo" width="100" height="14" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="https://www.ipevo.com/" target="_blank"><img src="images/2017_Vendor_Logos/05-ipevo.png" alt="Ipevo Logo" width="100" height="51" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="https://education.lego.com/en-us" target="_blank"><img src="images/2017_Vendor_Logos/05-lego.png" alt="Lego Logo" width="100" height="24" class="img-responsive"/></a></td>
+    </tr>
+    <tr>
+     	<td align="center" valign="middle"><a href="http://gaggle.net" target="_blank"><img src="images/2018logo/Gaggle.png" alt="Gaggle Logo" width="100" height="34" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="http://www.lightspeedsystems.com/" target="_blank"><img src="images/2017_Vendor_Logos/05-LS.png" alt="Lighspeed Systems Logo" width="100" height="34" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="http://www.lego.com" target="_blank"><img src="images/2018logo/lego.png" alt="Lego Logo" width="100" height="49" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="http://www.pcidaho.com/" target="_blank"><img src="images/2017_Vendor_Logos/05-PCRecyclers.png" alt="PC Recyclers Logo" width="100" height="50" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="https://meraki.cisco.com/" target="_blank"><img src="images/2018logo/cisco-meraki.png" alt="Pearson Logo" width="100" height="79" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="http://recycleboise.com/" target="_blank"><img src="images/2017_Vendor_Logos/05-recycleboise.png" alt="Recycle Boise Logo" width="100" height="27" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="https://schooldata.net/" target="_blank"><img src="images/2017_Vendor_Logos/05-schoolsatasolutions.png" alt="School Data Solutions Logo" width="100" height="52" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="http://www.smoothwall.org/" target="_blank"><img src="images/2017_Vendor_Logos/05-smoothwall.png" alt="Smoothwall Logo" width="100" height="28" class="img-responsive"/></a></td>
+    </tr>
+    <tr>
+     <td height="113" align="center" valign="middle"><a href="http://www.spectrumfurniture.com/en/" target="_blank"><img src="images/2017_Vendor_Logos/05-spectrum.png" alt="Spectrum Logo" width="100" height="16" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="http://tekpipeline.com" target="_blank"><img src="images/2017_Vendor_Logos/05-tekpipe.png" alt="TekPipeline Logo" width="100" height="37" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="https://singlewire.com" target="_blank"><img src="images/2018logo/singlewire.png" alt="SingleWire Logo" width="100" height="27" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="http://www.trinity3.com/" target="_blank"><img src="images/2017_Vendor_Logos/05-Trinity3.png" alt="Trinity 3 Technology Logo" width="100" height="69" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="http://www.viewsonic.com/us/" target="_blank"><img src="images/2017_Vendor_Logos/05-viewsonic.png" alt="Viewsonic Logo" width="100" height="17" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="http://www.valleyofficesystems.com/" target="_blank"><img src="images/2017_Vendor_Logos/05-vos.png" alt="Valley Office Systems Logo" width="100" height="41" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="http://www.wsipc.org/" target="_blank"><img src="images/2017_Vendor_Logos/05-WSIPC.png" alt="WSIPC Logo" width="100" height="87" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="http://www.zayo.com/" target="_blank"><img src="images/2017_Vendor_Logos/05-zayo.png" alt="Zayo Logo" width="100" height="42" class="img-responsive"/></a></td>
+    </tr>
+		<tr>
+     <td height="113" align="center" valign="middle"><a href="http://www.sophos.com" target="_blank"><img src="images/2018logo/sophos.png" alt="Sophos Logo" width="100" height="16" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="http://stemfinity.com" target="_blank"><img src="images/2018logo/STEMfinity_logo.jpg" alt="STEMfinity Logo" width="100" height="37" class="img-responsive"/></a></td>
+      <td align="center" valign="middle"><a href="https://stepcg.com" target="_blank"><img src="images/2018logo/stepcg.png" alt="stepcg Logo" width="100" height="27" class="img-responsive"/></a></td>
+      <td align="center" valign="middle">&nbsp</td>
+      <td align="center" valign="middle">&nbsp</td>
+      <td align="center" valign="middle">&nbsp</td>
+      <td align="center" valign="middle">&nbsp</td>
+      <td align="center" valign="middle">&nbsp</td>
+    </tr>
+    </tbody>
+</table>
+
+    </div>
+</div>
+
+			<!-- Main content ends -->
+
+	<!-- Footer Starts -->
+
+			<footer>
+				<!-- Container -->
+				<div class="container">
+					<!-- Footer Content -->
+						<!-- Paragraph -->
+						<p class="pull-left">Copyright &copy; 2018 - <a href="#">IETA</a></p>
+
+						<!-- Clearfix -->
+						<div class="clearfix"></div>
+				</div>
+	</footer>
+
+			<!-- Footer Ends -->
+
+		</div>
+
+		<!-- Outer Ends -->
+
+		<!-- Scroll to top -->
+		<span class="totop"><a href="#"><i class="fa fa-angle-up bg-color"></i></a></span>
+
+		<!-- Javascript files -->
+		<!-- jQuery -->
+		<script src="js/jquery.js"></script>
+		<!-- Bootstrap JS -->
+		<script src="js/bootstrap.min.js"></script>
+		<!-- Placeholders JS -->
+		<script src="js/placeholders.js"></script>
+		<!-- Magnific Popup -->
+		<script src="js/jquery.magnific-popup.min.js"></script>
+		<!-- Owl carousel -->
+		<script src="js/owl.carousel.min.js"></script>
+		<!-- Respond JS for IE8 -->
+		<script src="js/respond.min.js"></script>
+		<!-- HTML5 Support for IE -->
+		<script src="js/html5shiv.js"></script>
+		<!-- Main JS -->
+		<script src="js/main.js"></script>
+
+		<!-- Javascript for this page -->
+
+		<!-- Custom JS. Type your JS code in custom.js file -->
+		<script src="js/custom.js"></script>
+
+
+
+	</body>
+</html>
